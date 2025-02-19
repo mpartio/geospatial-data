@@ -87,7 +87,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Walkway"
+        "name": "Polku"
       },
       "geometry": {
         "type": "LineString",

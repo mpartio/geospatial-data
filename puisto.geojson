@@ -30,16 +30,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jyrkänne"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [[10, 30], [20, 50], [30, 60], [40, 55], [45, 45], [55, 30], [70, 25], [100, 20]]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Linnake"
       },
       "geometry": {
